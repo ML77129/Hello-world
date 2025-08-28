@@ -1,2 +1,2 @@
 # Hello-world
-about world 
+"Hello, World!" is the simplest and most common program written by beginners when learning a new programming language. Its purpose is to display the text “Hello, World!” on the screen, serving as a basic test to confirm that the programming environment is set up correctly. It introduces beginners to essential concepts such as syntax, structure, and output functions of a language. Despite its simplicity, it has become an iconic tradition in computer science. From C to Python, Java, or JavaScript, the "Hello, World!" program acts as the first step toward learning programming and marks the beginning of every coder’s journey.
